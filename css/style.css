@@ -601,7 +601,7 @@ body.push-side #ascrail2000-hr {
 
 .main-sidebar {
 	position: absolute;
-	width: 700px;
+	width: 614px;
 	height: 100%;
 	left: 0;
 	top: 0;
@@ -609,7 +609,7 @@ body.push-side #ascrail2000-hr {
 }
 
 .main-sidebar .mb-warp {
-	padding: 151px 95px 100px 145px;
+	padding: 200px 95px 100px 145px;
 }
 
 .site-logo {
