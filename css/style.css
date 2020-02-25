@@ -609,7 +609,7 @@ body.push-side #ascrail2000-hr {
 }
 
 .main-sidebar .mb-warp {
-	padding: 100px 95px 100px 50px;
+	padding: 50px 95px 100px 50px;
 }
 
 .site-logo {
@@ -1110,7 +1110,7 @@ Responsive
 		padding-left: 350px;
 	}
 	.main-sidebar .mb-warp {
-		padding: 100px 30px 91px 50px;
+		padding: 50px 30px 91px 50px;
 	}
 	.about-info h2 {
 		font-size: 36px;
