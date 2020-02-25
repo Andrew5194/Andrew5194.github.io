@@ -601,7 +601,7 @@ body.push-side #ascrail2000-hr {
 
 .main-sidebar {
 	position: absolute;
-	width: 614px;
+	width: 1000px;
 	height: 100%;
 	left: 0;
 	top: 0;
@@ -609,7 +609,7 @@ body.push-side #ascrail2000-hr {
 }
 
 .main-sidebar .mb-warp {
-	padding: 200px 95px 100px 145px;
+	padding: 500px 95px 100px 145px;
 }
 
 .site-logo {
@@ -1072,7 +1072,7 @@ Responsive
 		padding-left: 450px;
 	}
 	.main-sidebar .mb-warp {
-		padding: 110px 40px 91px 50px;
+		padding: 300px 40px 91px 50px;
 	}
 	.portfolio-item .pi-info {
 		padding: 15px 0 10px 0;
@@ -1110,7 +1110,7 @@ Responsive
 		padding-left: 350px;
 	}
 	.main-sidebar .mb-warp {
-		padding: 110px 30px 91px 50px;
+		padding: 300px 30px 91px 50px;
 	}
 	.about-info h2 {
 		font-size: 36px;
