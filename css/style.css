@@ -706,7 +706,8 @@ Hero section
 .hs-item {
 	height: 750px;
 	float: left;
-	margin-right: 50px;
+	margin-right: 25px;
+	margin-left: 25px;
 	position: relative;
 }
 
